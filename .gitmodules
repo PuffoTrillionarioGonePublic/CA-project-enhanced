@@ -1,0 +1,12 @@
+[submodule "modules/CPP-csv-parser"]
+	path = modules/CPP-csv-parser
+	url = git@github.com:Tredici/CPP-csv-parser.git
+[submodule "modules/CPP-math-utils"]
+	path = modules/CPP-math-utils
+	url = git@github.com:Tredici/CPP-math-utils.git
+[submodule "modules/CPP-lockfree-queue"]
+	path = modules/CPP-lockfree-queue
+	url = git@github.com:Tredici/CPP-lockfree-queue.git
+[submodule "modules/CPP-test-unit"]
+	path = modules/CPP-test-unit
+	url = git@github.com:Tredici/CPP-test-unit.git

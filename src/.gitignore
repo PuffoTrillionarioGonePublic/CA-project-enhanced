@@ -1,0 +1,4 @@
+*.o
+# ignore executable
+exe
+cuda
